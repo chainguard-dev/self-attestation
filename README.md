@@ -4,12 +4,15 @@ This repository contains a [markdown version](self-attestation.md) of the draft 
 
 It also contains a [table](references.md) of the references at the top of the PDF.
 
+Links are clickable wherever possible to make it easier to reference specific sections of the document.
+
 ## Purpose
 
 I found myself struggling to copy/paste/modify the PDF version as I read it and prepared my comments.
 I figured that converting to markdown will make it easier to read and reference in other tools.
 
-I also decided to share this in case anyone else is doing the same thing!
+I also decided to share this in case anyone else is doing the same thing.
+Remember, comments are due by June 26th!
 
 ## Original Version
 
