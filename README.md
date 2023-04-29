@@ -2,6 +2,8 @@
 
 This repository contains a [markdown version](self-attestation.md) of the draft Secure Software Development Self Attestation Form.
 
+It also contains a [table](references.md) of the references at the top of the PDF.
+
 ## Purpose
 
 I found myself struggling to copy/paste/modify the PDF version as I read it and prepared my comments.
